@@ -1,1 +1,1 @@
-Readme file forshell permissions.
+Readme file for shell permissions.
